@@ -1,7 +1,9 @@
 # Student Marks Management System
+
 A console-based Java application for managing student records, marks, grades, and rankings.
 
 ## Features
+
 - Add student records
 - Store marks for English, Mathematics, and Physics
 - Calculate total marks
@@ -12,6 +14,7 @@ A console-based Java application for managing student records, marks, grades, an
 - Input validation for names and marks
 
 ## Concepts Used
+
 - Java Fundamentals
 - Methods
 - Arrays
@@ -23,7 +26,10 @@ A console-based Java application for managing student records, marks, grades, an
 - Sorting (Bubble Sort)
 
 ## Project Structure
+
 Student Marks Management System
+
+```
 │
 ├── src
 │   └── Main.java
@@ -31,9 +37,10 @@ Student Marks Management System
 ├── README.md
 │
 └── .gitignore
-
+```
 
 ## Grading System
+
 | Average Marks | Grade |
 | ------------- | ----- |
 | 90 - 100      | A     |
@@ -43,6 +50,7 @@ Student Marks Management System
 | Below 60      | F     |
 
 ## Future Improvements
+
 - File Handling
 - Database Integration
 - Exception Handling
@@ -50,10 +58,12 @@ Student Marks Management System
 - GUI Version
 
 ## Author
+
 Prachi
 GitHub: https://github.com/Prachi-601
 
 ## How to Run
+
 1. Clone the repository
 2. Open the project in IntelliJ IDEA
 3. Navigate to `src/Main.java`
